@@ -1,5 +1,5 @@
 # This access_token is a User access token w/ permission to access API
-access_token: EAAHRJGVZAwvkBAE67pPZBIihVosWi9cZBAZCtPNmtlyummHEfEDbbqQegfzzB1kWRMh4qus32HPWs0tPmNexEmzOLGcFJVunZC7X7fvbmUDEfwVDYNuXIb555tZChWwSqApQmSnkrzcxSjjHMqRKFOH57fjSWolZBMuRumyouv0akbY8xpRUT0NPoYnZCLuZAfB0ZD
+access_token: <INSERT YOUR TOKEN>
 
 page_total: 100   # Should be a maximum of 1,000
 search_total: 100   # You can query a maximum of 5,000 ads
